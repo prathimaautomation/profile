@@ -8,9 +8,9 @@ import {environment} from '../environments/environment';
 })
 export class AppComponent implements OnInit{
   title = 'portfolio';
-  public env: string='';
+  // public env: string='';
 
   ngOnInit(): void {
-    this.env = environment.env;
+    // this.env = environment.env;
   }
 }

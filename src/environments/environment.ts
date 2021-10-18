@@ -4,9 +4,10 @@
 
 export const environment = {
   production: false,
-   API_BASE: 'https://api.github.com/users/prathimaautomation',
+  API_BASE: 'https://api.github.com/users/prathimaautomation',
   env: 'dev'
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
